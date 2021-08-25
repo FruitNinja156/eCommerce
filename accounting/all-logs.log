@@ -1,0 +1,789 @@
+2021-08-14 10:44:34:4434 info: GET /accounts 200 37.436 ms - - nl
+2021-08-14 10:44:34:4434 info: GET /api/users/auth 304 52.402 ms - - nl
+2021-08-14 10:44:36:4436 info: GET /api/users/auth 304 13.059 ms - - nl
+2021-08-14 10:44:36:4436 info: POST /api/product/getProducts 200 80.107 ms - 1940 nl
+2021-08-14 10:44:36:4436 info: GET /uploads/1628953844246_Beti.PNG 304 2.004 ms - - nl
+2021-08-14 10:44:36:4436 info: GET /uploads/1628036089541_mekele.jpg 304 1.144 ms - - nl
+2021-08-14 10:44:36:4436 info: GET /uploads/1628035720209_gondar.jpg 304 2.872 ms - - nl
+2021-08-14 10:44:37:4437 info: GET /accounts 200 3.450 ms - 567 nl
+2021-08-14 10:44:37:4437 info: GET /api/users/auth 304 8.118 ms - - nl
+2021-08-14 10:44:56:4456 info: GET /api/users/auth 304 12.513 ms - - nl
+2021-08-14 10:44:56:4456 info: POST /api/product/getProducts 200 31.227 ms - 1940 nl
+2021-08-14 10:44:56:4456 info: GET /uploads/1628953844246_Beti.PNG 304 3.347 ms - - nl
+2021-08-14 10:44:56:4456 info: GET /uploads/1628036089541_mekele.jpg 304 4.928 ms - - nl
+2021-08-14 10:44:56:4456 info: GET /uploads/1628035720209_gondar.jpg 304 6.041 ms - - nl
+2021-08-14 10:44:59:4459 info: GET /api/users/auth 304 10.474 ms - - nl
+2021-08-14 10:44:59:4459 info: POST /api/product/getProducts 200 24.802 ms - 1940 nl
+2021-08-14 10:44:59:4459 info: GET /uploads/1628953844246_Beti.PNG 304 1.317 ms - - nl
+2021-08-14 10:44:59:4459 info: GET /uploads/1628036089541_mekele.jpg 304 1.875 ms - - nl
+2021-08-14 10:44:59:4459 info: GET /uploads/1628035720209_gondar.jpg 304 0.877 ms - - nl
+2021-08-14 10:45:02:452 info: GET /accounts 200 2.841 ms - 1561 nl
+2021-08-14 10:45:02:452 info: GET /api/users/auth 304 6.572 ms - - nl
+2021-08-14 10:45:07:457 info: POST /api/product/getProducts 200 24.162 ms - 1940 nl
+2021-08-14 10:45:07:457 info: GET /api/users/auth 304 17.468 ms - - nl
+2021-08-14 10:45:07:457 info: GET /uploads/1628953844246_Beti.PNG 304 0.882 ms - - nl
+2021-08-14 10:45:07:457 info: GET /uploads/1628036089541_mekele.jpg 304 1.018 ms - - nl
+2021-08-14 10:45:07:457 info: GET /uploads/1628035720209_gondar.jpg 304 0.849 ms - - nl
+2021-08-14 10:45:26:4526 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:45:27:4527 info: GET /api/users/auth 304 65.275 ms - - nl
+2021-08-14 10:45:27:4527 info: POST /api/product/getProducts 200 141.628 ms - 1940 nl
+2021-08-14 10:45:28:4528 info: GET /uploads/1628953844246_Beti.PNG 304 5.622 ms - - nl
+2021-08-14 10:45:28:4528 info: GET /uploads/1628036089541_mekele.jpg 304 2.387 ms - - nl
+2021-08-14 10:45:28:4528 info: GET /uploads/1628035720209_gondar.jpg 304 1.075 ms - - nl
+2021-08-14 10:48:02:482 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:48:07:487 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:48:08:488 info: GET /api/users/auth 304 93.378 ms - - nl
+2021-08-14 10:48:08:488 info: POST /api/product/getProducts 200 178.771 ms - 1940 nl
+2021-08-14 10:48:08:488 info: GET /uploads/1628953844246_Beti.PNG 304 5.584 ms - - nl
+2021-08-14 10:48:08:488 info: GET /uploads/1628036089541_mekele.jpg 304 2.042 ms - - nl
+2021-08-14 10:48:08:488 info: GET /uploads/1628035720209_gondar.jpg 304 1.144 ms - - nl
+2021-08-14 10:48:10:4810 info: GET /accounts 200 13.397 ms - 3196 nl
+2021-08-14 10:48:10:4810 info: GET /api/users/auth 304 13.378 ms - - nl
+2021-08-14 10:48:17:4817 info: POST /api/product/getProducts 200 24.538 ms - 1940 nl
+2021-08-14 10:48:17:4817 info: GET /uploads/1628953844246_Beti.PNG 304 1.080 ms - - nl
+2021-08-14 10:48:17:4817 info: GET /uploads/1628036089541_mekele.jpg 304 1.085 ms - - nl
+2021-08-14 10:48:17:4817 info: GET /uploads/1628035720209_gondar.jpg 304 0.911 ms - - nl
+2021-08-14 10:48:17:4817 info: GET /api/users/auth 304 6.040 ms - - nl
+2021-08-14 10:48:55:4855 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:48:56:4856 info: GET /api/users/auth 304 76.867 ms - - nl
+2021-08-14 10:48:56:4856 info: POST /api/product/getProducts 200 153.371 ms - 1940 nl
+2021-08-14 10:48:56:4856 info: GET /uploads/1628953844246_Beti.PNG 304 5.336 ms - - nl
+2021-08-14 10:48:56:4856 info: GET /uploads/1628036089541_mekele.jpg 304 1.749 ms - - nl
+2021-08-14 10:48:56:4856 info: GET /uploads/1628035720209_gondar.jpg 304 1.546 ms - - nl
+2021-08-14 10:50:42:5042 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:50:43:5043 info: GET /api/users/auth 304 37.317 ms - - nl
+2021-08-14 10:50:43:5043 info: POST /api/product/getProducts 200 136.509 ms - 1940 nl
+2021-08-14 10:50:44:5044 info: GET /uploads/1628036089541_mekele.jpg 304 5.999 ms - - nl
+2021-08-14 10:50:44:5044 info: GET /uploads/1628953844246_Beti.PNG 304 5.002 ms - - nl
+2021-08-14 10:50:44:5044 info: GET /uploads/1628035720209_gondar.jpg 304 1.069 ms - - nl
+2021-08-14 10:50:54:5054 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:51:25:5125 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-14 10:51:28:5128 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-18 22:52:46:5246 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-18 22:53:56:5356 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 36.982 ms - 29 nl
+2021-08-18 22:53:56:5356 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 361.961 ms - 1940 nl
+2021-08-18 22:53:56:5356 info: GET /uploads/1628953844246_Beti.PNG 304 ::1 - 8.518 ms - - nl
+2021-08-18 22:53:56:5356 info: GET /uploads/1628035720209_gondar.jpg 304 ::1 - 7.017 ms - - nl
+2021-08-18 22:53:56:5356 info: GET /uploads/1628036089541_mekele.jpg 304 ::1 - 7.028 ms - - nl
+2021-08-18 22:54:01:541 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 9.519 ms - - nl
+2021-08-18 22:54:02:542 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 38.145 ms - 1940 nl
+2021-08-18 22:54:02:542 info: GET /uploads/1628953844246_Beti.PNG 304 ::1 - 1.126 ms - - nl
+2021-08-18 22:54:02:542 info: GET /uploads/1628036089541_mekele.jpg 304 ::1 - 1.251 ms - - nl
+2021-08-18 22:54:02:542 info: GET /uploads/1628035720209_gondar.jpg 304 ::1 - 1.032 ms - - nl
+2021-08-23 19:55:06:556 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 19:55:21:5521 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 41.298 ms - 43 nl
+2021-08-23 19:55:21:5521 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 18.338 ms - 29 nl
+2021-08-23 19:55:27:5527 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 15.674 ms - 43 nl
+2021-08-23 19:55:30:5530 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 3.856 ms - 43 nl
+2021-08-23 19:55:35:5535 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 4.621 ms - 43 nl
+2021-08-23 19:55:35:5535 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.619 ms - - nl
+2021-08-23 19:55:37:5537 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.003 ms - - nl
+2021-08-23 19:55:50:5550 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 333.166 ms - 16 nl
+2021-08-23 19:55:51:5551 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 9.187 ms - - nl
+2021-08-23 19:55:53:5553 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 250.428 ms - 57 nl
+2021-08-23 19:55:54:5554 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 17.962 ms - 43 nl
+2021-08-23 19:55:54:5554 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 59.575 ms - 158 nl
+2021-08-23 19:55:58:5558 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.353 ms - - nl
+2021-08-23 19:56:08:568 info: POST /api/product/uploadImage 200 ::ffff:127.0.0.1 - 10.829 ms - 114 nl
+2021-08-23 19:56:08:568 info: GET /uploads/1629737768518_delivery-truck.png 200 ::1 - 4.361 ms - 13811 nl
+2021-08-23 19:56:38:5638 info: POST /api/product/uploadProduct 200 ::ffff:127.0.0.1 - 76.002 ms - 16 nl
+2021-08-23 19:56:41:5641 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 32.628 ms - 744 nl
+2021-08-23 19:56:41:5641 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 6.793 ms - - nl
+2021-08-23 19:56:45:5645 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 200 ::ffff:127.0.0.1 - 8.254 ms - 703 nl
+2021-08-23 19:56:45:5645 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 8.021 ms - - nl
+2021-08-23 19:56:45:5645 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.189 ms - - nl
+2021-08-23 19:57:12:5712 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.836 ms - - nl
+2021-08-23 19:57:12:5712 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.516 ms - - nl
+2021-08-23 19:57:12:5712 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 11.529 ms - 744 nl
+2021-08-23 19:57:12:5712 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.570 ms - - nl
+2021-08-23 19:57:17:5717 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.083 ms - - nl
+2021-08-23 19:57:17:5717 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.929 ms - 744 nl
+2021-08-23 19:57:17:5717 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.563 ms - - nl
+2021-08-23 19:57:27:5727 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.304 ms - - nl
+2021-08-23 19:57:27:5727 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.521 ms - 744 nl
+2021-08-23 19:57:27:5727 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.531 ms - - nl
+2021-08-23 19:57:31:5731 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.732 ms - 43 nl
+2021-08-23 19:57:37:5737 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.865 ms - 744 nl
+2021-08-23 19:57:44:5744 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.816 ms - 43 nl
+2021-08-23 19:57:49:5749 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.234 ms - 43 nl
+2021-08-23 19:57:52:5752 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.480 ms - 43 nl
+2021-08-23 19:57:55:5755 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.173 ms - 744 nl
+2021-08-23 19:58:32:5832 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:00:58:058 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:01:13:113 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 13.297 ms - 29 nl
+2021-08-23 20:01:13:113 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 51.020 ms - 744 nl
+2021-08-23 20:01:13:113 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.136 ms - - nl
+2021-08-23 20:01:17:117 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.055 ms - - nl
+2021-08-23 20:01:21:121 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.595 ms - - nl
+2021-08-23 20:01:21:121 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.866 ms - 744 nl
+2021-08-23 20:01:22:122 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.275 ms - - nl
+2021-08-23 20:01:27:127 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.927 ms - - nl
+2021-08-23 20:01:36:136 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.601 ms - - nl
+2021-08-23 20:01:36:136 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.751 ms - 744 nl
+2021-08-23 20:01:36:136 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.597 ms - - nl
+2021-08-23 20:01:44:144 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.623 ms - - nl
+2021-08-23 20:01:44:144 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.839 ms - 744 nl
+2021-08-23 20:01:45:145 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.541 ms - - nl
+2021-08-23 20:01:47:147 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.881 ms - - nl
+2021-08-23 20:03:06:36 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.102 ms - - nl
+2021-08-23 20:03:27:327 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 132.481 ms - 16 nl
+2021-08-23 20:03:27:327 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.449 ms - - nl
+2021-08-23 20:03:41:341 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 199.119 ms - 57 nl
+2021-08-23 20:03:41:341 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 24.886 ms - 744 nl
+2021-08-23 20:03:41:341 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 22.617 ms - 158 nl
+2021-08-23 20:03:41:341 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.985 ms - - nl
+2021-08-23 20:03:44:344 info: GET /api/users/logout 200 ::ffff:127.0.0.1 - 73.743 ms - 16 nl
+2021-08-23 20:03:45:345 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 7.581 ms - 29 nl
+2021-08-23 20:03:53:353 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 147.855 ms - 57 nl
+2021-08-23 20:03:54:354 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 9.243 ms - 148 nl
+2021-08-23 20:03:54:354 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 21.722 ms - 638 nl
+2021-08-23 20:10:58:1058 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:11:01:111 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 20.889 ms - - nl
+2021-08-23 20:11:01:111 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 57.441 ms - 638 nl
+2021-08-23 20:11:01:111 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.255 ms - - nl
+2021-08-23 20:11:22:1122 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:12:01:121 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:12:17:1217 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 13.005 ms - 29 nl
+2021-08-23 20:12:17:1217 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 58.213 ms - 638 nl
+2021-08-23 20:12:17:1217 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.481 ms - - nl
+2021-08-23 20:13:26:1326 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:13:44:1344 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:13:45:1345 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.949 ms - - nl
+2021-08-23 20:13:45:1345 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 62.056 ms - 638 nl
+2021-08-23 20:13:45:1345 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.089 ms - - nl
+2021-08-23 20:13:48:1348 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:14:15:1415 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:14:34:1434 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:14:34:1434 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 13.676 ms - - nl
+2021-08-23 20:14:34:1434 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 50.000 ms - 638 nl
+2021-08-23 20:14:34:1434 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.074 ms - - nl
+2021-08-23 20:15:33:1533 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.881 ms - - nl
+2021-08-23 20:15:33:1533 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 10.642 ms - 638 nl
+2021-08-23 20:15:33:1533 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.288 ms - - nl
+2021-08-23 20:15:44:1544 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.589 ms - - nl
+2021-08-23 20:15:44:1544 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 200 ::ffff:127.0.0.1 - 8.042 ms - 597 nl
+2021-08-23 20:15:44:1544 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.832 ms - - nl
+2021-08-23 20:16:00:160 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.359 ms - - nl
+2021-08-23 20:16:00:160 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 11.305 ms - 638 nl
+2021-08-23 20:16:00:160 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.558 ms - - nl
+2021-08-23 20:16:55:1655 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 2.773 ms - 29 nl
+2021-08-23 20:16:55:1655 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.446 ms - 638 nl
+2021-08-23 20:16:55:1655 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.577 ms - - nl
+2021-08-23 20:17:00:170 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.479 ms - - nl
+2021-08-23 20:17:04:174 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.881 ms - - nl
+2021-08-23 20:17:20:1720 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.999 ms - - nl
+2021-08-23 20:17:26:1726 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 149.532 ms - 57 nl
+2021-08-23 20:17:26:1726 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.880 ms - 744 nl
+2021-08-23 20:17:26:1726 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.594 ms - - nl
+2021-08-23 20:17:26:1726 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 12.689 ms - 158 nl
+2021-08-23 20:17:29:1729 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.460 ms - - nl
+2021-08-23 20:19:19:1919 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 19.922 ms - - nl
+2021-08-23 20:19:19:1919 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 6.414 ms - 29 nl
+2021-08-23 20:19:27:1927 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 128.009 ms - 57 nl
+2021-08-23 20:19:27:1927 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 8.377 ms - 148 nl
+2021-08-23 20:19:27:1927 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 19.871 ms - 638 nl
+2021-08-23 20:19:27:1927 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.549 ms - - nl
+2021-08-23 20:19:42:1942 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 10.243 ms - - nl
+2021-08-23 20:19:42:1942 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 5.486 ms - 29 nl
+2021-08-23 20:19:51:1951 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 131.316 ms - 57 nl
+2021-08-23 20:19:51:1951 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 3.569 ms - 148 nl
+2021-08-23 20:19:51:1951 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.739 ms - 638 nl
+2021-08-23 20:19:54:1954 info: GET /accounts 200 ::1 - 5.066 ms - 17417 nl
+2021-08-23 20:19:54:1954 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.440 ms - - nl
+2021-08-23 20:19:59:1959 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.646 ms - - nl
+2021-08-23 20:19:59:1959 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.292 ms - 638 nl
+2021-08-23 20:19:59:1959 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.546 ms - - nl
+2021-08-23 20:20:12:2012 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:20:57:2057 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:21:10:2110 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.941 ms - - nl
+2021-08-23 20:21:10:2110 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 49.128 ms - 638 nl
+2021-08-23 20:21:10:2110 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.734 ms - - nl
+2021-08-23 20:21:14:2114 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 24.795 ms - - nl
+2021-08-23 20:21:14:2114 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 7.314 ms - 29 nl
+2021-08-23 20:21:23:2123 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 115.760 ms - 57 nl
+2021-08-23 20:21:24:2124 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.242 ms - 158 nl
+2021-08-23 20:21:24:2124 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 26.586 ms - 744 nl
+2021-08-23 20:21:27:2127 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.484 ms - - nl
+2021-08-23 20:21:30:2130 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.275 ms - - nl
+2021-08-23 20:21:30:2130 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.105 ms - 744 nl
+2021-08-23 20:21:30:2130 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.000 ms - - nl
+2021-08-23 20:21:36:2136 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:22:45:2245 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:23:00:230 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 11.734 ms - 29 nl
+2021-08-23 20:23:00:230 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 55.706 ms - 744 nl
+2021-08-23 20:23:00:230 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.482 ms - - nl
+2021-08-23 20:23:07:237 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.471 ms - - nl
+2021-08-23 20:23:09:239 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 232.443 ms - 57 nl
+2021-08-23 20:23:09:239 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.998 ms - 744 nl
+2021-08-23 20:23:09:239 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.151 ms - - nl
+2021-08-23 20:23:10:2310 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 11.616 ms - 158 nl
+2021-08-23 20:23:13:2313 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 14.539 ms - - nl
+2021-08-23 20:23:14:2314 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 5.973 ms - 29 nl
+2021-08-23 20:23:19:2319 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 157.261 ms - 57 nl
+2021-08-23 20:23:19:2319 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 9.866 ms - 148 nl
+2021-08-23 20:23:19:2319 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 23.190 ms - 638 nl
+2021-08-23 20:23:25:2325 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 11.383 ms - - nl
+2021-08-23 20:23:25:2325 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 8.647 ms - 29 nl
+2021-08-23 20:23:28:2328 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.291 ms - - nl
+2021-08-23 20:23:50:2350 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 81.398 ms - 16 nl
+2021-08-23 20:23:51:2351 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.713 ms - - nl
+2021-08-23 20:23:54:2354 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 79.964 ms - 57 nl
+2021-08-23 20:23:55:2355 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.258 ms - 152 nl
+2021-08-23 20:23:55:2355 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 21.453 ms - 638 nl
+2021-08-23 20:23:55:2355 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.572 ms - - nl
+2021-08-23 20:24:34:2434 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.702 ms - - nl
+2021-08-23 20:24:34:2434 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.897 ms - 638 nl
+2021-08-23 20:24:34:2434 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.701 ms - - nl
+2021-08-23 20:24:42:2442 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.359 ms - 43 nl
+2021-08-23 20:24:43:2443 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.754 ms - 638 nl
+2021-08-23 20:24:46:2446 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.706 ms - - nl
+2021-08-23 20:24:46:2446 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 304 ::ffff:127.0.0.1 - 8.572 ms - - nl
+2021-08-23 20:24:46:2446 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.717 ms - - nl
+2021-08-23 20:24:58:2458 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.869 ms - - nl
+2021-08-23 20:24:58:2458 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.789 ms - 638 nl
+2021-08-23 20:24:58:2458 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.560 ms - - nl
+2021-08-23 20:25:01:251 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 10.873 ms - - nl
+2021-08-23 20:25:02:252 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 5.518 ms - 29 nl
+2021-08-23 20:25:08:258 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:27:49:2749 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:28:04:284 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 13.960 ms - - nl
+2021-08-23 20:28:04:284 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 49.682 ms - 638 nl
+2021-08-23 20:28:04:284 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.858 ms - - nl
+2021-08-23 20:28:09:289 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.192 ms - - nl
+2021-08-23 20:28:15:2815 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.326 ms - - nl
+2021-08-23 20:28:23:2823 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.886 ms - - nl
+2021-08-23 20:28:31:2831 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 259.444 ms - 57 nl
+2021-08-23 20:28:32:2832 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 15.842 ms - 158 nl
+2021-08-23 20:28:32:2832 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 31.595 ms - 744 nl
+2021-08-23 20:28:32:2832 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.082 ms - - nl
+2021-08-23 20:28:36:2836 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.546 ms - - nl
+2021-08-23 20:28:36:2836 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 200 ::ffff:127.0.0.1 - 8.823 ms - 703 nl
+2021-08-23 20:28:36:2836 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.642 ms - - nl
+2021-08-23 20:29:58:2958 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:30:00:300 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 20.506 ms - - nl
+2021-08-23 20:30:00:300 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 304 ::ffff:127.0.0.1 - 38.285 ms - - nl
+2021-08-23 20:30:06:306 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 20:30:07:307 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 4.404 ms - - nl
+2021-08-23 20:30:12:3012 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 15.271 ms - - nl
+2021-08-23 20:30:12:3012 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 304 ::ffff:127.0.0.1 - 35.957 ms - - nl
+2021-08-23 20:30:12:3012 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.911 ms - - nl
+2021-08-23 20:30:20:3020 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 7.280 ms - - nl
+2021-08-23 20:30:20:3020 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 26.644 ms - 744 nl
+2021-08-23 20:30:20:3020 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.643 ms - - nl
+2021-08-23 20:30:29:3029 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.599 ms - - nl
+2021-08-23 20:30:29:3029 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.190 ms - 744 nl
+2021-08-23 20:30:29:3029 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.702 ms - - nl
+2021-08-23 20:30:36:3036 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 23:56:34:5634 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-23 23:56:47:5647 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.689 ms - 29 nl
+2021-08-23 23:56:48:5648 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 45.153 ms - 744 nl
+2021-08-23 23:56:48:5648 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.743 ms - - nl
+2021-08-23 23:58:07:587 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.978 ms - - nl
+2021-08-23 23:58:07:587 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 11.205 ms - 744 nl
+2021-08-23 23:58:07:587 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.770 ms - - nl
+2021-08-23 23:58:12:5812 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.582 ms - - nl
+2021-08-23 23:58:12:5812 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 304 ::ffff:127.0.0.1 - 8.472 ms - - nl
+2021-08-23 23:58:12:5812 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.515 ms - - nl
+2021-08-23 23:58:15:5815 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.796 ms - - nl
+2021-08-23 23:58:23:5823 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 250.572 ms - 57 nl
+2021-08-23 23:58:24:5824 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 60.798 ms - 158 nl
+2021-08-23 23:58:24:5824 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 77.550 ms - 744 nl
+2021-08-23 23:58:24:5824 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.590 ms - - nl
+2021-08-23 23:58:29:5829 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.382 ms - 43 nl
+2021-08-23 23:58:29:5829 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.900 ms - 43 nl
+2021-08-23 23:58:29:5829 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.925 ms - 43 nl
+2021-08-23 23:58:29:5829 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.298 ms - 43 nl
+2021-08-23 23:58:30:5830 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.316 ms - 43 nl
+2021-08-23 23:58:30:5830 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.543 ms - 43 nl
+2021-08-23 23:58:30:5830 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.214 ms - 43 nl
+2021-08-23 23:58:30:5830 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 60.294 ms - 744 nl
+2021-08-23 23:58:37:5837 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.463 ms - - nl
+2021-08-24 00:00:29:029 info: POST /api/product/uploadImage 200 ::ffff:127.0.0.1 - 37.416 ms - 132 nl
+2021-08-24 00:00:29:029 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 200 ::1 - 4.691 ms - 80212 nl
+2021-08-24 00:01:41:141 info: POST /api/product/uploadProduct 200 ::ffff:127.0.0.1 - 72.380 ms - 16 nl
+2021-08-24 00:01:43:143 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 31.228 ms - 1486 nl
+2021-08-24 00:01:43:143 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.783 ms - - nl
+2021-08-24 00:01:43:143 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 6.625 ms - - nl
+2021-08-24 00:01:46:146 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.964 ms - 43 nl
+2021-08-24 00:01:46:146 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.410 ms - 43 nl
+2021-08-24 00:01:46:146 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.942 ms - 43 nl
+2021-08-24 00:01:46:146 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.944 ms - 43 nl
+2021-08-24 00:01:47:147 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.015 ms - 43 nl
+2021-08-24 00:01:47:147 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.919 ms - 43 nl
+2021-08-24 00:01:47:147 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.741 ms - 43 nl
+2021-08-24 00:01:47:147 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.974 ms - 744 nl
+2021-08-24 00:01:48:148 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.128 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.742 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.471 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.177 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.719 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.158 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.908 ms - 43 nl
+2021-08-24 00:01:49:149 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.431 ms - 1486 nl
+2021-08-24 00:01:51:151 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.388 ms - 43 nl
+2021-08-24 00:01:51:151 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 10.146 ms - 43 nl
+2021-08-24 00:01:51:151 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.567 ms - 43 nl
+2021-08-24 00:01:51:151 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.345 ms - 43 nl
+2021-08-24 00:01:51:151 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.574 ms - 784 nl
+2021-08-24 00:01:52:152 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.891 ms - 43 nl
+2021-08-24 00:01:53:153 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.833 ms - 43 nl
+2021-08-24 00:01:53:153 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.471 ms - 43 nl
+2021-08-24 00:01:53:153 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.295 ms - 43 nl
+2021-08-24 00:01:53:153 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.480 ms - 1486 nl
+2021-08-24 00:01:57:157 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.964 ms - - nl
+2021-08-24 00:01:57:157 info: GET /api/product/products_by_id?id=61240cb50b459418d8144eca&type=single 200 ::ffff:127.0.0.1 - 6.966 ms - 743 nl
+2021-08-24 00:01:57:157 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.544 ms - - nl
+2021-08-24 00:02:11:211 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 4.989 ms - 1486 nl
+2021-08-24 00:02:11:211 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.554 ms - - nl
+2021-08-24 00:02:11:211 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.862 ms - - nl
+2021-08-24 00:02:18:218 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.406 ms - 784 nl
+2021-08-24 00:02:21:221 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 17.058 ms - 1486 nl
+2021-08-24 00:02:25:225 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 10.686 ms - 43 nl
+2021-08-24 00:02:27:227 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.279 ms - 1486 nl
+2021-08-24 00:02:29:229 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.190 ms - 43 nl
+2021-08-24 00:02:30:230 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 21.951 ms - 1486 nl
+2021-08-24 00:03:16:316 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:03:18:318 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 20.021 ms - - nl
+2021-08-24 00:03:18:318 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 54.564 ms - 1486 nl
+2021-08-24 00:03:18:318 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.109 ms - - nl
+2021-08-24 00:03:18:318 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.200 ms - - nl
+2021-08-24 00:03:25:325 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:03:26:326 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 19.686 ms - - nl
+2021-08-24 00:03:26:326 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 67.313 ms - 1486 nl
+2021-08-24 00:03:26:326 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.226 ms - - nl
+2021-08-24 00:03:26:326 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.602 ms - - nl
+2021-08-24 00:04:28:428 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:04:29:429 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 32.941 ms - - nl
+2021-08-24 00:04:29:429 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 80.696 ms - 1486 nl
+2021-08-24 00:04:29:429 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.259 ms - - nl
+2021-08-24 00:04:29:429 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.110 ms - - nl
+2021-08-24 00:06:07:67 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:06:08:68 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.268 ms - - nl
+2021-08-24 00:06:08:68 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 47.721 ms - 1486 nl
+2021-08-24 00:06:08:68 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.954 ms - - nl
+2021-08-24 00:06:08:68 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.933 ms - - nl
+2021-08-24 00:06:12:612 info: POST /api/product/getProducts 400 ::ffff:127.0.0.1 - 103.351 ms - 203 nl
+2021-08-24 00:06:13:613 info: POST /api/product/getProducts 400 ::ffff:127.0.0.1 - 6.621 ms - 203 nl
+2021-08-24 00:06:14:614 info: POST /api/product/getProducts 400 ::ffff:127.0.0.1 - 4.911 ms - 203 nl
+2021-08-24 00:06:19:619 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:06:20:620 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.595 ms - - nl
+2021-08-24 00:06:20:620 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.055 ms - 1486 nl
+2021-08-24 00:06:20:620 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.391 ms - - nl
+2021-08-24 00:06:20:620 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.810 ms - - nl
+2021-08-24 00:06:23:623 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 22.322 ms - 784 nl
+2021-08-24 00:06:25:625 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.463 ms - 43 nl
+2021-08-24 00:06:29:629 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.056 ms - 43 nl
+2021-08-24 00:06:31:631 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.224 ms - 43 nl
+2021-08-24 00:06:33:633 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 17.677 ms - 784 nl
+2021-08-24 00:06:34:634 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 19.516 ms - 1486 nl
+2021-08-24 00:07:02:72 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:07:03:73 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 20.088 ms - - nl
+2021-08-24 00:07:03:73 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 52.358 ms - 1486 nl
+2021-08-24 00:07:03:73 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.368 ms - - nl
+2021-08-24 00:07:03:73 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.119 ms - - nl
+2021-08-24 00:07:06:76 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 19.206 ms - 744 nl
+2021-08-24 00:07:24:724 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:07:24:724 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.872 ms - - nl
+2021-08-24 00:07:24:724 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 54.064 ms - 1486 nl
+2021-08-24 00:07:24:724 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.708 ms - - nl
+2021-08-24 00:07:25:725 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.882 ms - - nl
+2021-08-24 00:07:28:728 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 18.401 ms - 744 nl
+2021-08-24 00:07:30:730 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.933 ms - 43 nl
+2021-08-24 00:07:32:732 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 19.613 ms - 744 nl
+2021-08-24 00:07:33:733 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.533 ms - 1486 nl
+2021-08-24 00:07:35:735 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 21.072 ms - 784 nl
+2021-08-24 00:08:36:836 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:08:37:837 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 17.561 ms - - nl
+2021-08-24 00:08:37:837 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 62.968 ms - 1486 nl
+2021-08-24 00:08:37:837 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.649 ms - - nl
+2021-08-24 00:08:37:837 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.093 ms - - nl
+2021-08-24 00:08:53:853 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:08:53:853 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.645 ms - - nl
+2021-08-24 00:08:53:853 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 55.411 ms - 1486 nl
+2021-08-24 00:08:53:853 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.344 ms - - nl
+2021-08-24 00:08:53:853 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.960 ms - - nl
+2021-08-24 00:09:38:938 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:09:38:938 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.123 ms - - nl
+2021-08-24 00:09:38:938 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 49.874 ms - 1486 nl
+2021-08-24 00:09:38:938 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.415 ms - - nl
+2021-08-24 00:09:38:938 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.921 ms - - nl
+2021-08-24 00:10:33:1033 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:10:34:1034 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 17.478 ms - - nl
+2021-08-24 00:10:34:1034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 52.905 ms - 1486 nl
+2021-08-24 00:10:34:1034 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 4.199 ms - - nl
+2021-08-24 00:10:34:1034 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.748 ms - - nl
+2021-08-24 00:11:07:117 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:11:07:117 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.987 ms - - nl
+2021-08-24 00:11:07:117 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 49.790 ms - 1486 nl
+2021-08-24 00:11:07:117 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.746 ms - - nl
+2021-08-24 00:11:07:117 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.318 ms - - nl
+2021-08-24 00:12:45:1245 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:12:46:1246 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 17.060 ms - - nl
+2021-08-24 00:12:46:1246 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 50.422 ms - 1486 nl
+2021-08-24 00:12:46:1246 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.567 ms - - nl
+2021-08-24 00:12:46:1246 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.924 ms - - nl
+2021-08-24 00:12:59:1259 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.577 ms - - nl
+2021-08-24 00:12:59:1259 info: GET /api/product/products_by_id?id=61240cb50b459418d8144eca&type=single 304 ::ffff:127.0.0.1 - 11.691 ms - - nl
+2021-08-24 00:12:59:1259 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.686 ms - - nl
+2021-08-24 00:13:15:1315 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.401 ms - - nl
+2021-08-24 00:13:15:1315 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.684 ms - 1486 nl
+2021-08-24 00:13:15:1315 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.845 ms - - nl
+2021-08-24 00:13:15:1315 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.684 ms - - nl
+2021-08-24 00:13:41:1341 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:13:42:1342 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.350 ms - - nl
+2021-08-24 00:13:42:1342 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 55.904 ms - 1486 nl
+2021-08-24 00:13:42:1342 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.555 ms - - nl
+2021-08-24 00:13:42:1342 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.182 ms - - nl
+2021-08-24 00:13:48:1348 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 00:13:49:1349 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 23.078 ms - - nl
+2021-08-24 00:13:49:1349 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 54.305 ms - 1486 nl
+2021-08-24 00:13:49:1349 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.165 ms - - nl
+2021-08-24 00:13:49:1349 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.991 ms - - nl
+2021-08-24 00:14:04:144 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:28:34:2834 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:28:50:2850 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 13.457 ms - 29 nl
+2021-08-24 03:28:50:2850 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.809 ms - 1486 nl
+2021-08-24 03:28:50:2850 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 4.847 ms - - nl
+2021-08-24 03:28:50:2850 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.515 ms - - nl
+2021-08-24 03:28:58:2858 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.825 ms - - nl
+2021-08-24 03:29:04:294 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:30:00:300 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:30:15:3015 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 10.816 ms - - nl
+2021-08-24 03:30:15:3015 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 57.234 ms - 1486 nl
+2021-08-24 03:30:15:3015 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.939 ms - - nl
+2021-08-24 03:30:15:3015 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.338 ms - - nl
+2021-08-24 03:30:26:3026 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.156 ms - - nl
+2021-08-24 03:30:29:3029 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 216.489 ms - 57 nl
+2021-08-24 03:30:29:3029 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.877 ms - 1486 nl
+2021-08-24 03:30:29:3029 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.855 ms - - nl
+2021-08-24 03:30:29:3029 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.224 ms - - nl
+2021-08-24 03:30:29:3029 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 11.401 ms - 158 nl
+2021-08-24 03:30:32:3032 info: GET /accounts 200 ::1 - 5.749 ms - 44087 nl
+2021-08-24 03:30:32:3032 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 6.743 ms - - nl
+2021-08-24 03:30:34:3034 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.587 ms - - nl
+2021-08-24 03:30:34:3034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 51.646 ms - 1486 nl
+2021-08-24 03:30:34:3034 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.025 ms - - nl
+2021-08-24 03:30:34:3034 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.608 ms - - nl
+2021-08-24 03:30:39:3039 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:30:41:3041 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 26.720 ms - - nl
+2021-08-24 03:30:41:3041 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 67.773 ms - 1486 nl
+2021-08-24 03:30:41:3041 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.440 ms - - nl
+2021-08-24 03:30:41:3041 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.906 ms - - nl
+2021-08-24 03:33:00:330 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:33:01:331 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 24.325 ms - - nl
+2021-08-24 03:33:01:331 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 59.449 ms - 1486 nl
+2021-08-24 03:33:02:332 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 5.303 ms - - nl
+2021-08-24 03:33:02:332 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.326 ms - - nl
+2021-08-24 03:33:15:3315 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:33:16:3316 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 22.220 ms - - nl
+2021-08-24 03:33:16:3316 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 58.936 ms - 1486 nl
+2021-08-24 03:33:16:3316 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.452 ms - - nl
+2021-08-24 03:33:16:3316 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.737 ms - - nl
+2021-08-24 03:33:18:3318 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:34:03:343 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:34:04:344 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.586 ms - - nl
+2021-08-24 03:34:04:344 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.439 ms - 1486 nl
+2021-08-24 03:34:04:344 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 5.749 ms - - nl
+2021-08-24 03:34:04:344 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.818 ms - - nl
+2021-08-24 03:34:24:3424 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:34:25:3425 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 19.238 ms - - nl
+2021-08-24 03:34:25:3425 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 59.883 ms - 1486 nl
+2021-08-24 03:34:25:3425 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 5.301 ms - - nl
+2021-08-24 03:34:25:3425 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 4.069 ms - - nl
+2021-08-24 03:34:28:3428 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.118 ms - - nl
+2021-08-24 03:34:28:3428 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 10.204 ms - 1486 nl
+2021-08-24 03:34:28:3428 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.587 ms - - nl
+2021-08-24 03:34:28:3428 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.629 ms - - nl
+2021-08-24 03:35:54:3554 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:35:55:3555 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 25.669 ms - - nl
+2021-08-24 03:35:55:3555 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 73.346 ms - 1486 nl
+2021-08-24 03:35:55:3555 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.576 ms - - nl
+2021-08-24 03:35:55:3555 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.930 ms - - nl
+2021-08-24 03:36:06:366 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:36:06:366 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 22.008 ms - - nl
+2021-08-24 03:36:06:366 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 55.515 ms - 1486 nl
+2021-08-24 03:36:07:367 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 4.931 ms - - nl
+2021-08-24 03:36:07:367 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.871 ms - - nl
+2021-08-24 03:36:18:3618 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:36:19:3619 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 17.560 ms - - nl
+2021-08-24 03:36:19:3619 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 62.945 ms - 1486 nl
+2021-08-24 03:36:19:3619 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.313 ms - - nl
+2021-08-24 03:36:19:3619 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.990 ms - - nl
+2021-08-24 03:36:25:3625 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:36:25:3625 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 26.343 ms - - nl
+2021-08-24 03:36:25:3625 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 75.401 ms - 1486 nl
+2021-08-24 03:36:26:3626 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.403 ms - - nl
+2021-08-24 03:36:26:3626 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.101 ms - - nl
+2021-08-24 03:36:49:3649 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:36:49:3649 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.349 ms - - nl
+2021-08-24 03:36:49:3649 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 56.473 ms - 1486 nl
+2021-08-24 03:36:49:3649 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.072 ms - - nl
+2021-08-24 03:36:49:3649 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.090 ms - - nl
+2021-08-24 03:36:51:3651 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:36:59:3659 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 86.626 ms - 744 nl
+2021-08-24 03:37:01:371 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.680 ms - 43 nl
+2021-08-24 03:37:04:374 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 20.518 ms - 784 nl
+2021-08-24 03:37:06:376 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.250 ms - 43 nl
+2021-08-24 03:38:09:389 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:38:09:389 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 18.080 ms - - nl
+2021-08-24 03:38:09:389 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 51.675 ms - 1486 nl
+2021-08-24 03:38:09:389 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.821 ms - - nl
+2021-08-24 03:38:09:389 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.004 ms - - nl
+2021-08-24 03:38:13:3813 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 11.385 ms - 43 nl
+2021-08-24 03:38:27:3827 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:38:30:3830 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 16.786 ms - - nl
+2021-08-24 03:38:30:3830 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 50.911 ms - 1486 nl
+2021-08-24 03:38:30:3830 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.921 ms - - nl
+2021-08-24 03:38:30:3830 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.201 ms - - nl
+2021-08-24 03:38:34:3834 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 23.787 ms - - nl
+2021-08-24 03:38:34:3834 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 5.963 ms - 29 nl
+2021-08-24 03:38:45:3845 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.710 ms - - nl
+2021-08-24 03:38:45:3845 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 11.521 ms - 1274 nl
+2021-08-24 03:38:45:3845 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.651 ms - - nl
+2021-08-24 03:38:45:3845 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.661 ms - - nl
+2021-08-24 03:38:49:3849 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.300 ms - - nl
+2021-08-24 03:38:51:3851 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.091 ms - - nl
+2021-08-24 03:39:46:3946 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:39:46:3946 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 17.429 ms - - nl
+2021-08-24 03:40:17:4017 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 03:40:20:4020 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:32:05:325 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:32:22:3222 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 13.787 ms - - nl
+2021-08-24 11:32:22:3222 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 59.694 ms - 1274 nl
+2021-08-24 11:32:22:3222 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.593 ms - - nl
+2021-08-24 11:32:22:3222 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.162 ms - - nl
+2021-08-24 11:33:22:3322 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.065 ms - - nl
+2021-08-24 11:34:36:3436 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.556 ms - - nl
+2021-08-24 11:34:39:3439 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 112.317 ms - 57 nl
+2021-08-24 11:34:39:3439 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.604 ms - 1486 nl
+2021-08-24 11:34:39:3439 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.372 ms - - nl
+2021-08-24 11:34:39:3439 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.085 ms - - nl
+2021-08-24 11:34:39:3439 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 14.263 ms - 158 nl
+2021-08-24 11:34:42:3442 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 22.743 ms - - nl
+2021-08-24 11:34:42:3442 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 6.044 ms - 29 nl
+2021-08-24 11:34:49:3449 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 6.218 ms - 63 nl
+2021-08-24 11:34:53:3453 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.241 ms - - nl
+2021-08-24 11:35:45:3545 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.200 ms - - nl
+2021-08-24 11:35:45:3545 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.293 ms - 1274 nl
+2021-08-24 11:35:45:3545 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.209 ms - - nl
+2021-08-24 11:35:45:3545 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.404 ms - - nl
+2021-08-24 11:35:51:3551 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.139 ms - - nl
+2021-08-24 11:35:54:3554 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 86.493 ms - 57 nl
+2021-08-24 11:35:54:3554 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.377 ms - 1486 nl
+2021-08-24 11:35:54:3554 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.854 ms - - nl
+2021-08-24 11:35:54:3554 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.988 ms - - nl
+2021-08-24 11:35:54:3554 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 8.634 ms - 158 nl
+2021-08-24 11:36:31:3631 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:38:43:3843 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:38:58:3858 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 14.702 ms - 29 nl
+2021-08-24 11:38:58:3858 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.841 ms - 1486 nl
+2021-08-24 11:38:58:3858 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 4.913 ms - - nl
+2021-08-24 11:38:58:3858 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.585 ms - - nl
+2021-08-24 11:39:03:393 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.218 ms - - nl
+2021-08-24 11:39:03:393 info: GET /api/product/products_by_id?id=61240cb50b459418d8144eca&type=single 200 ::ffff:127.0.0.1 - 8.235 ms - 743 nl
+2021-08-24 11:39:03:393 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.890 ms - - nl
+2021-08-24 11:39:18:3918 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.806 ms - - nl
+2021-08-24 11:39:18:3918 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.641 ms - 1486 nl
+2021-08-24 11:39:18:3918 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.626 ms - - nl
+2021-08-24 11:39:19:3919 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.653 ms - - nl
+2021-08-24 11:39:52:3952 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.807 ms - - nl
+2021-08-24 11:40:05:405 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.125 ms - - nl
+2021-08-24 11:40:07:407 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 165.824 ms - 57 nl
+2021-08-24 11:40:07:407 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.607 ms - 1486 nl
+2021-08-24 11:40:07:407 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.069 ms - - nl
+2021-08-24 11:40:07:407 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.828 ms - - nl
+2021-08-24 11:40:08:408 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.777 ms - 158 nl
+2021-08-24 11:40:10:4010 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.034 ms - - nl
+2021-08-24 11:40:29:4029 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.584 ms - 1486 nl
+2021-08-24 11:40:33:4033 info: GET /api/product/products_by_id?id=61240cb50b459418d8144eca&type=single 200 ::ffff:127.0.0.1 - 4.822 ms - 743 nl
+2021-08-24 11:40:33:4033 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.689 ms - - nl
+2021-08-24 11:40:33:4033 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.381 ms - - nl
+2021-08-24 11:40:45:4045 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 12.487 ms - - nl
+2021-08-24 11:40:45:4045 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 2.464 ms - 29 nl
+2021-08-24 11:40:58:4058 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.447 ms - - nl
+2021-08-24 11:41:29:4129 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.913 ms - - nl
+2021-08-24 11:42:46:4246 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:44:46:4446 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:45:01:451 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 13.270 ms - - nl
+2021-08-24 11:45:01:451 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 52.427 ms - 1274 nl
+2021-08-24 11:45:01:451 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.130 ms - - nl
+2021-08-24 11:45:01:451 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.213 ms - - nl
+2021-08-24 11:45:05:455 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.089 ms - - nl
+2021-08-24 11:45:30:4530 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 260.124 ms - 16 nl
+2021-08-24 11:45:30:4530 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.659 ms - - nl
+2021-08-24 11:45:38:4538 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 183.849 ms - 49 nl
+2021-08-24 11:45:49:4549 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 132.335 ms - 57 nl
+2021-08-24 11:45:49:4549 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 19.552 ms - 1274 nl
+2021-08-24 11:45:49:4549 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.302 ms - - nl
+2021-08-24 11:45:49:4549 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.840 ms - - nl
+2021-08-24 11:45:49:4549 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 3.776 ms - 154 nl
+2021-08-24 11:46:03:463 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 17.430 ms - 678 nl
+2021-08-24 11:46:04:464 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.447 ms - 638 nl
+2021-08-24 11:46:07:467 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 16.045 ms - 1274 nl
+2021-08-24 11:46:45:4645 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 21.211 ms - - nl
+2021-08-24 11:46:45:4645 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 5.990 ms - 29 nl
+2021-08-24 11:46:48:4648 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 268.897 ms - 57 nl
+2021-08-24 11:46:48:4648 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 2.832 ms - 154 nl
+2021-08-24 11:46:48:4648 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.470 ms - 1274 nl
+2021-08-24 11:46:51:4651 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 11.283 ms - - nl
+2021-08-24 11:46:51:4651 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 6.675 ms - 29 nl
+2021-08-24 11:47:01:471 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 257.672 ms - 57 nl
+2021-08-24 11:47:01:471 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 9.277 ms - 158 nl
+2021-08-24 11:47:01:471 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 24.462 ms - 1486 nl
+2021-08-24 11:47:09:479 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:50:44:5044 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:50:58:5058 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 13.249 ms - 29 nl
+2021-08-24 11:50:58:5058 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.119 ms - 1486 nl
+2021-08-24 11:50:58:5058 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.156 ms - - nl
+2021-08-24 11:50:58:5058 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.345 ms - - nl
+2021-08-24 11:51:12:5112 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.455 ms - - nl
+2021-08-24 11:51:15:5115 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 155.663 ms - 57 nl
+2021-08-24 11:51:15:5115 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.482 ms - 1486 nl
+2021-08-24 11:51:15:5115 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.874 ms - - nl
+2021-08-24 11:51:15:5115 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.188 ms - - nl
+2021-08-24 11:51:15:5115 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.944 ms - 158 nl
+2021-08-24 11:51:27:5127 info: GET /api/users/logout 304 ::ffff:127.0.0.1 - 27.764 ms - - nl
+2021-08-24 11:51:27:5127 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 6.043 ms - 29 nl
+2021-08-24 11:51:39:5139 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 193.766 ms - 57 nl
+2021-08-24 11:51:39:5139 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 10.944 ms - 158 nl
+2021-08-24 11:51:39:5139 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 27.907 ms - 1486 nl
+2021-08-24 11:51:42:5142 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.853 ms - - nl
+2021-08-24 11:52:01:521 info: POST /api/product/uploadImage 200 ::ffff:127.0.0.1 - 13.362 ms - 102 nl
+2021-08-24 11:52:01:521 info: GET /uploads/1629795121196_download.png 200 ::1 - 2.622 ms - 153360 nl
+2021-08-24 11:52:14:5214 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.116 ms - - nl
+2021-08-24 11:52:14:5214 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.751 ms - 1486 nl
+2021-08-24 11:52:14:5214 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.051 ms - - nl
+2021-08-24 11:52:14:5214 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.560 ms - - nl
+2021-08-24 11:52:19:5219 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.412 ms - - nl
+2021-08-24 11:52:24:5224 info: POST /api/product/uploadImage 200 ::ffff:127.0.0.1 - 5.574 ms - 132 nl
+2021-08-24 11:52:24:5224 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 200 ::1 - 0.935 ms - 80212 nl
+2021-08-24 11:53:01:531 info: POST /api/product/uploadProduct 200 ::ffff:127.0.0.1 - 27.973 ms - 16 nl
+2021-08-24 11:53:03:533 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 10.169 ms - - nl
+2021-08-24 11:53:04:534 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 26.917 ms - 2187 nl
+2021-08-24 11:53:04:534 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.887 ms - - nl
+2021-08-24 11:53:04:534 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.026 ms - - nl
+2021-08-24 11:53:19:5319 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.975 ms - - nl
+2021-08-24 11:53:19:5319 info: GET /api/product/products_by_id?id=6123d346e915b124389c567e&type=single 200 ::ffff:127.0.0.1 - 8.532 ms - 703 nl
+2021-08-24 11:53:19:5319 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.696 ms - - nl
+2021-08-24 11:56:45:5645 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:59:00:590 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 11:59:14:5914 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 14.739 ms - 29 nl
+2021-08-24 11:59:14:5914 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 53.264 ms - 2187 nl
+2021-08-24 11:59:14:5914 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 3.736 ms - - nl
+2021-08-24 11:59:14:5914 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.678 ms - - nl
+2021-08-24 11:59:14:5914 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 3.057 ms - - nl
+2021-08-24 11:59:21:5921 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.848 ms - - nl
+2021-08-24 11:59:45:5945 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 148.453 ms - 16 nl
+2021-08-24 11:59:45:5945 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 1.893 ms - - nl
+2021-08-24 11:59:49:5949 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 164.386 ms - 57 nl
+2021-08-24 11:59:49:5949 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 17.919 ms - 155 nl
+2021-08-24 11:59:49:5949 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 38.267 ms - 2187 nl
+2021-08-24 11:59:49:5949 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.841 ms - - nl
+2021-08-24 11:59:49:5949 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.580 ms - - nl
+2021-08-24 11:59:49:5949 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.658 ms - - nl
+2021-08-24 11:59:59:5959 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.416 ms - - nl
+2021-08-24 12:00:23:023 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.356 ms - - nl
+2021-08-24 12:00:23:023 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 10.653 ms - 2187 nl
+2021-08-24 12:00:23:023 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.233 ms - - nl
+2021-08-24 12:00:23:023 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.434 ms - - nl
+2021-08-24 12:00:23:023 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.102 ms - - nl
+2021-08-24 12:00:26:026 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.720 ms - 43 nl
+2021-08-24 12:00:26:026 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.532 ms - 43 nl
+2021-08-24 12:00:27:027 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.640 ms - 43 nl
+2021-08-24 12:00:27:027 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.274 ms - 43 nl
+2021-08-24 12:00:27:027 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.808 ms - 784 nl
+2021-08-24 12:00:29:029 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.908 ms - 43 nl
+2021-08-24 12:00:29:029 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.630 ms - 43 nl
+2021-08-24 12:00:30:030 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.583 ms - 43 nl
+2021-08-24 12:00:30:030 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.678 ms - 43 nl
+2021-08-24 12:00:30:030 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 15.142 ms - 2187 nl
+2021-08-24 12:00:34:034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 4.157 ms - 43 nl
+2021-08-24 12:00:34:034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.488 ms - 43 nl
+2021-08-24 12:00:34:034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.921 ms - 43 nl
+2021-08-24 12:00:34:034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.902 ms - 43 nl
+2021-08-24 12:00:34:034 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.176 ms - 784 nl
+2021-08-24 12:00:35:035 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.918 ms - 43 nl
+2021-08-24 12:00:35:035 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.311 ms - 784 nl
+2021-08-24 12:00:35:035 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.071 ms - 43 nl
+2021-08-24 12:00:36:036 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.102 ms - 43 nl
+2021-08-24 12:00:36:036 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.730 ms - 1485 nl
+2021-08-24 12:00:38:038 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.001 ms - 43 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.744 ms - 43 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.918 ms - 784 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.572 ms - 43 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.269 ms - 784 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.185 ms - 43 nl
+2021-08-24 12:00:39:039 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 2.152 ms - 43 nl
+2021-08-24 12:00:40:040 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.218 ms - 43 nl
+2021-08-24 12:00:40:040 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.814 ms - 43 nl
+2021-08-24 12:00:40:040 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 15.088 ms - 2187 nl
+2021-08-24 12:00:42:042 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.950 ms - 43 nl
+2021-08-24 12:00:42:042 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.466 ms - 43 nl
+2021-08-24 12:00:42:042 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.756 ms - 43 nl
+2021-08-24 12:00:42:042 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.028 ms - 43 nl
+2021-08-24 12:00:42:042 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 6.143 ms - 43 nl
+2021-08-24 12:00:43:043 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.729 ms - 43 nl
+2021-08-24 12:00:44:044 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.428 ms - 784 nl
+2021-08-24 12:00:44:044 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 5.707 ms - 43 nl
+2021-08-24 12:00:44:044 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 12.951 ms - 784 nl
+2021-08-24 12:00:44:044 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.218 ms - 43 nl
+2021-08-24 12:00:44:044 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.254 ms - 43 nl
+2021-08-24 12:00:45:045 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.387 ms - 1485 nl
+2021-08-24 12:00:48:048 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.402 ms - 784 nl
+2021-08-24 12:01:04:14 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.029 ms - 2187 nl
+2021-08-24 12:01:08:18 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 14.165 ms - 743 nl
+2021-08-24 12:01:18:118 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.323 ms - - nl
+2021-08-24 12:01:18:118 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 7.947 ms - 2187 nl
+2021-08-24 12:01:18:118 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.566 ms - - nl
+2021-08-24 12:01:18:118 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.569 ms - - nl
+2021-08-24 12:01:18:118 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.560 ms - - nl
+2021-08-24 12:02:24:224 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 12:53:38:5338 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 12:53:56:5356 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 12.889 ms - 29 nl
+2021-08-24 12:53:56:5356 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 67.464 ms - 2187 nl
+2021-08-24 12:53:56:5356 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 5.746 ms - - nl
+2021-08-24 12:53:56:5356 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 4.199 ms - - nl
+2021-08-24 12:53:56:5356 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 0.974 ms - - nl
+2021-08-24 12:54:51:5451 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.671 ms - - nl
+2021-08-24 12:55:14:5514 info: POST /api/users/register 200 ::ffff:127.0.0.1 - 194.770 ms - 16 nl
+2021-08-24 12:55:14:5514 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.768 ms - - nl
+2021-08-24 12:55:17:5517 info: POST /api/users/login 200 ::ffff:127.0.0.1 - 177.165 ms - 57 nl
+2021-08-24 12:55:17:5517 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 63.910 ms - 148 nl
+2021-08-24 12:55:17:5517 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 89.820 ms - 2187 nl
+2021-08-24 12:55:18:5518 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 8.506 ms - - nl
+2021-08-24 12:55:18:5518 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 7.972 ms - - nl
+2021-08-24 12:55:18:5518 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 13.075 ms - - nl
+2021-08-24 12:55:25:5525 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.773 ms - - nl
+2021-08-24 12:55:29:5529 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.039 ms - - nl
+2021-08-24 12:55:29:5529 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 9.834 ms - 2187 nl
+2021-08-24 12:55:29:5529 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.575 ms - - nl
+2021-08-24 12:55:29:5529 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.704 ms - - nl
+2021-08-24 12:55:29:5529 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.194 ms - - nl
+2021-08-24 12:55:33:5533 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 4.862 ms - - nl
+2021-08-24 12:55:33:5533 info: GET /api/product/products_by_id?id=6124b36d5ee4ae31e4897052&type=single 200 ::ffff:127.0.0.1 - 10.734 ms - 702 nl
+2021-08-24 12:55:33:5533 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.565 ms - - nl
+2021-08-24 12:55:48:5548 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.695 ms - - nl
+2021-08-24 12:55:48:5548 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 8.951 ms - 2187 nl
+2021-08-24 12:55:48:5548 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.657 ms - - nl
+2021-08-24 12:55:48:5548 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 2.317 ms - - nl
+2021-08-24 12:55:48:5548 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 1.567 ms - - nl
+2021-08-24 12:56:22:5622 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 21.047 ms - 784 nl
+2021-08-24 12:59:05:595 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 13:50:20:5020 info: Server listening on port 5000 skrrrt!!! nl
+2021-08-24 13:50:37:5037 info: GET /api/users/auth 200 ::ffff:127.0.0.1 - 16.802 ms - 29 nl
+2021-08-24 13:50:37:5037 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 68.234 ms - 2187 nl
+2021-08-24 13:50:37:5037 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 8.083 ms - - nl
+2021-08-24 13:50:37:5037 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 5.827 ms - - nl
+2021-08-24 13:50:37:5037 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 5.709 ms - - nl
+2021-08-24 13:51:06:516 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.520 ms - - nl
+2021-08-24 13:51:13:5113 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 3.044 ms - - nl
+2021-08-24 13:51:25:5125 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 5.516 ms - - nl
+2021-08-24 13:51:25:5125 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 13.027 ms - 2187 nl
+2021-08-24 13:51:26:5126 info: GET /uploads/1629795144080_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.317 ms - - nl
+2021-08-24 13:51:26:5126 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 1.667 ms - - nl
+2021-08-24 13:51:26:5126 info: GET /uploads/1629737768518_delivery-truck.png 304 ::1 - 2.431 ms - - nl
+2021-08-24 13:51:35:5135 info: POST /api/product/getProducts 200 ::ffff:127.0.0.1 - 18.064 ms - 784 nl
+2021-08-24 13:51:47:5147 info: GET /api/users/auth 304 ::ffff:127.0.0.1 - 2.541 ms - - nl
+2021-08-24 13:51:47:5147 info: GET /api/product/products_by_id?id=61240cb50b459418d8144eca&type=single 200 ::ffff:127.0.0.1 - 7.447 ms - 743 nl
+2021-08-24 13:51:47:5147 info: GET /uploads/1629752429233_61JxEQow7BL._AC_SL1200_.jpg 304 ::1 - 0.575 ms - - nl
+2021-08-24 13:52:10:5210 info: Server listening on port 5000 skrrrt!!! nl
