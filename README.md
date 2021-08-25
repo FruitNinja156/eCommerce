@@ -6,6 +6,7 @@ To use this application,
 run "npm run dev" to start the client and server at once using concurrently
 You need to have the bcrypt dependencies setup ,
 also set up the keys inside the server config folder for the mongoose database
+bcrypt might give you problems, but be sure to review their documentation to make it work!!
 
 
 
